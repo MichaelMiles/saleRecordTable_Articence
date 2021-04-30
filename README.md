@@ -1,4 +1,4 @@
-# React APP for querying sale Records accordig to country and product 
+# Sales Records Query app
 
 how to run: 
 
