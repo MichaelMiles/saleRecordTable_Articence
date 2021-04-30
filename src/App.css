@@ -1,0 +1,27 @@
+.main-body {
+	height: 100%;
+	/*Image only BG fallback*/
+    background: 
+    linear-gradient(rgb(229, 239, 255), rgb(255, 255, 255));
+}
+
+#drop-box {
+    height: 28vh; 
+    width: 75%; 
+    border-radius: 25px; 
+    margin-top: 20px; 
+    padding-top: 0px;
+}
+
+#button {
+    margin-right: 25px; 
+    border-color: #7e57c2; 
+    border-radius: 25px;
+    margin-top: 22px;
+    color: #9575cd;
+    font-size: 13px;
+}
+#button :hover{
+    color: white;
+    background-color: #9575cd; 
+}
